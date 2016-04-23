@@ -1,0 +1,16 @@
+1.Google nexux effect
+2.menu bar dropdown
+3.mobile resposnsive
+4. contact us remove
+5. add in about page more contents
+6 add fork icon on github link
+7 .follow icon github
+8. coloring social link.
+9.
+
+----------
+last edit:
+4 apr 16 : adding menu index.html ,work.html, menu_nav.css added old css,font updated
+
+next goal:
+1. blog addition
