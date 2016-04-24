@@ -8,6 +8,16 @@
 8. coloring social link.
 9.
 
+---
+root@HackerDude:~/Documents/MySite/public_html_backup_before_blog# git branch
+* master
+root@HackerDude:~/Documents/MySite/public_html_backup_before_blog# git remote -vorigin	https://github.com/Shekharrajak/Site_backup.git (fetch)
+origin	https://github.com/Shekharrajak/Site_backup.git (push)
+root@HackerDude:~/Documents/MySite/public_html_backup_before_blog# git checkout -b gh-pages_before_blog
+Switched to a new branch 'gh-pages_before_blog'
+root@HackerDude:~/Documents/MySite/public_html_backup_before_blog# 
+
+
 ----------
 last edit:
 4 apr 16 : adding menu index.html ,work.html, menu_nav.css added old css,font updated
