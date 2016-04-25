@@ -21,6 +21,7 @@ root@HackerDude:~/Documents/MySite/public_html_backup_before_blog#
 ----------
 last edit:
 4 apr 16 : adding menu index.html ,work.html, menu_nav.css added old css,font updated
+24 apr 16 : blog added gsoc ->gsoc_preparation,application
 
 next goal:
 1. blog addition
