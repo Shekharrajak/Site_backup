@@ -21,7 +21,8 @@
 
 .tabs-style-bar nav ul li a:hover,
 .tabs-style-bar nav ul li a:focus {
-	color: #2CC185;
+	/*color: #2CC185;*/
+	background-color: #2C3E50;
 }
 
 .tabs-style-bar nav ul li a span {
@@ -115,6 +116,7 @@
 	border-left: 1px solid #e7ecea;
 	-webkit-transition: color 0.2s;
 	transition: color 0.2s;
+
 }
 
 .tabs-style-underline nav li:last-child a {
@@ -133,6 +135,7 @@
 	transition: transform 0.3s;
 	-webkit-transform: translate3d(0,150%,0);
 	transform: translate3d(0,150%,0);
+
 }
 
 .tabs-style-underline nav li.tab-current a::after {

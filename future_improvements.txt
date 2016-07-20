@@ -22,6 +22,17 @@ root@HackerDude:~/Documents/MySite/public_html_backup_before_blog#
 last edit:
 4 apr 16 : adding menu index.html ,work.html, menu_nav.css added old css,font updated
 24 apr 16 : blog added gsoc ->gsoc_preparation,application
+14 may 2016
+1. designing speeling mistake - index.html
+2. Resume updated link 
+2.#10764: TODO part of #10733 Fixes XFAIL test-cases and #7914  this line have wrong links fixed
+
 
 next goal:
 1. blog addition
+
+3. check all the links of contribution page
+4.blog add on education system in india, my journey to NIT Warangal
+
+chages added nut not hosted 
+
